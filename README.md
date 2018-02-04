@@ -1,8 +1,3 @@
----
-output: word_document
----
-Introduction
-
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
@@ -98,20 +93,19 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](plot1.png) 
+![](plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](plot2.png) 
+![](plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](plot3.png) 
+![](plot3.png) 
 
 
-dev.off()
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](plot4.png) 
+![](plot4.png) 
